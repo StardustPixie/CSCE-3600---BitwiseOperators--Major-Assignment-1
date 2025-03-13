@@ -7,7 +7,7 @@
   - Responsibility: Count Leading Zeros implementation
 - **Kelly Pierre** (triforce496@gmail.com)
   - Responsibility: Endian Swap implementation
-- **Rishav R. Dahal** (email@example.com)
+- **Rishav Dahal** (email@example.com)
   - Responsibility: Rotate Right implementation
 - **Isaiah Geesey** (email@example.com)
   - Responsibility: Parity implementation
